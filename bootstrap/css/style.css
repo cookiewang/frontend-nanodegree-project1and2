@@ -1,0 +1,28 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Droid', serif;
+}
+.description{
+    color: #7C8B88;
+    font-weight: bold;
+    font-style: normal;
+    max-width: 705px;
+    margin: 40px;
+    font-size: 40px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.image{
+    max-width:460px;
+}
+.app{
+    display: -webkit-flex;
+    display: flex;
+}
